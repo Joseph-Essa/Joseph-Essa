@@ -2,9 +2,9 @@
 <h3 align="center">AI Engineer | Machine Learning | Deep Learning | LLMs | Computer Vision</h3>
 
 <p align="center">
-  👁️ 
-  <img src="https://komarev.com/ghpvc/?username=Joseph-Essa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Joseph-Essa&label=👁️%20Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
+
 
 ---
 
