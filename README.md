@@ -2,6 +2,7 @@
 <h3 align="center">AI Engineer | Machine Learning | Deep Learning | LLMs | Computer Vision</h3>
 
 <p align="center">
+  👁️ 
   <img src="https://komarev.com/ghpvc/?username=Joseph-Essa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
@@ -11,11 +12,11 @@
 
 - 🌱 I’m expanding my expertise in **Generative AI, data science and production-ready NLP systems**.
 
-- 👯 I’m open to collaborating on **AI research, open-source ML projects, and innovative AI product development**.
+- 👯 I’m open to collaborating on Data Science, LLMs, ML projects, and innovative AI product development.
 
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 How to reach me: **[Email](josepheissa0@gmail.com)**
 
-- 📄 [View My Resume](https://drive.google.com/drive/folders/1JDklvmMwWYXy11xS_7uQQXTCX5m0aCTH)
+- 📄 [My Resume](https://drive.google.com/drive/folders/1JDklvmMwWYXy11xS_7uQQXTCX5m0aCTH)
 
 ---
 
