@@ -36,7 +36,7 @@
 ### 🚀 My Tech Stack
 
 **Languages:**  
-Python, Java (OOP) , C
+Python, Java , C
 
 **Frameworks & Libraries:**  
 TensorFlow, Keras , scikit-learn, OpenCV, NumPy, Pandas, FastAPI
@@ -58,10 +58,10 @@ Docker, GitHub Actions, Streamlit
 
 ### 📌 Featured Projects
 
-- 🚀 **[Project Name](link)** — Short description (e.g., *State-of-the-art LLM-based chatbot with RAG and vector search*)
+- 🚀 **[Retrieval_Augmented_Generation_RAG_App](https://github.com/Joseph-Essa/Retrieval_Augmented_Generation_RAG_App.git)** — This project is a Retrieval-Augmented Generation (RAG) system that uses Large Language Models (LLMs) with external knowledge retrieval to provide accurate, context-aware answers from custom documents. Built with FastAPI, it features document ingestion, vector search, and LLM-based response generation via high-performance RESTful APIs.
 
-- 🔬 **[Project Name](link)** — Short description (e.g., *End-to-end computer vision pipeline for real-time object detection*)
+- 🔬 **[Synthesising_Missing_MRI_Sequences](https://github.com/Joseph-Essa/Synthesising_Missing_MRI_Sequences.git)** — Transform single MRI sequences into comprehensive multi-sequence scans using advanced GANs with Squeeze-Attention U-Net architecture.
 
-- 🧩 **[Project Name](link)** — Short description (e.g., *ML Ops workflow with CI/CD, model monitoring, and drift detection*)
+- 🧩 **[Customer_Churn_Prediction](https://github.com/Joseph-Essa/Customer_Churn_Prediction.git)** — This project involves exploratory data analysis (EDA) and predictive modeling to identify factors contributing to customer churn. Key steps include data cleaning, visualization, feature engineering, and training machine learning models to predict churn likelihood. The goal is to help businesses proactively retain customers by understanding churn .
 
 ---
