@@ -36,10 +36,10 @@
 ### 🚀 My Tech Stack
 
 **Languages:**  
-Python, SQL, Bash, C++
+Python, Java (OOP) , C
 
 **Frameworks & Libraries:**  
-TensorFlow, scikit-learn, Hugging Face Transformers, LangChain, OpenCV, FastAPI, Flask
+TensorFlow, Keras , scikit-learn, OpenCV, NumPy, Pandas, FastAPI
 
 **Tools & Platforms:**  
 Docker, GitHub Actions, Streamlit
