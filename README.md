@@ -2,9 +2,22 @@
 <h3 align="center">AI Engineer | Machine Learning | Deep Learning | LLMs | Computer Vision</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Joseph-Essa&label=👁️ %20Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Joseph-Essa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
+<p align="center">
+  <a href="www.linkedin.com/in/joseph-eissa14" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  
+  <a href="josepheissa0@gmail.com">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
+  </a>
+  
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="30" width="30" />
+  </a>
+</p>
 
 ---
 
@@ -26,10 +39,10 @@
 Python, SQL, Bash, C++
 
 **Frameworks & Libraries:**  
-PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, LangChain, OpenCV, FastAPI, Flask
+TensorFlow, scikit-learn, Hugging Face Transformers, LangChain, OpenCV, FastAPI, Flask
 
 **Tools & Platforms:**  
-Docker, Kubernetes, MLflow, DVC, AWS, Azure, GCP, GitHub Actions, Streamlit
+Docker, GitHub Actions, Streamlit
 
 ---
 
@@ -52,17 +65,3 @@ Docker, Kubernetes, MLflow, DVC, AWS, Azure, GCP, GitHub Actions, Streamlit
 - 🧩 **[Project Name](link)** — Short description (e.g., *ML Ops workflow with CI/CD, model monitoring, and drift detection*)
 
 ---
-
-### 📫 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="30" width="30" />
-  </a>
-</p>
