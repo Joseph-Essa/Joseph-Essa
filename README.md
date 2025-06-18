@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joseph-eissa14" target="_blank" style="margin: 0 10px;">
+  <a href="https://www.linkedin.com/in/joseph-eissa14" target="_blank" style="margin: 0 30px;">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   
-  <a href="josepheissa0@gmail.com" style="margin: 0 10px;">
+  <a href="josepheissa0@gmail.com" style="margin: 0 30px;">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
   </a>
   
-  <a href="https://your-portfolio-link.com" target="_blank" style="margin: 0 10px;">
+  <a href="https://your-portfolio-link.com" target="_blank" style="margin: 0 30px;">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="30" width="30" />
   </a>
 </p>
