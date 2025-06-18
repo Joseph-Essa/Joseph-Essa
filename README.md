@@ -6,15 +6,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joseph-eissa14" target="_blank" style="margin: 10 30px;">
+  <a href="https://www.linkedin.com/in/joseph-eissa14" target="_blank" style="margin: 0 30px;">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   
-  <a href="josepheissa0@gmail.com" style="margin: 10 30px;">
+  <a href="mailto:josepheissa0@gmail.com" style="margin: 0 30px;">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
   </a>
   
-  <a href="https://your-portfolio-link.com" target="_blank" style="margin: 10 30px;">
+  <a href="#" target="_blank" style="margin: 0 30px;">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="30" width="30" />
   </a>
 </p>
@@ -23,11 +23,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m expanding my expertise in **Generative AI, data science and production-ready NLP systems**.
+- 🌱 I’m expanding my expertise in **Generative AI, Data Science and production-ready NLP systems**.
 
 - 👯 I’m open to collaborating on Data Science, LLMs, ML projects, and innovative AI product development.
 
-- 📫 How to reach me: **[Email](josepheissa0@gmail.com)**
+- 📫 How to reach me: **[Email](mailto:josepheissa0@gmail.com)**
 
 - 📄 [My Resume](https://drive.google.com/drive/folders/1JDklvmMwWYXy11xS_7uQQXTCX5m0aCTH)
 
